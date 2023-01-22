@@ -54,7 +54,7 @@ theme: /
     
     state: change pincode for the card 1
         a: И все готово! 
-            Пин-код установлен, можно пользоваться. :)
+            Пин-код установлен, можно пользоваться :)
         go!: /change pincode for the card 2
     
     state: change pincode for the card 2
